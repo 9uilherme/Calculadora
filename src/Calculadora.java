@@ -5,7 +5,7 @@ public class Calculadora {
 	private int operador2;
 	private int operacao;
 	private double result;
-	
+
 	public Calculadora (int operador1, int operador2, int operacao){
 		this.operador1 = operador1;
 		this.operador2 = operador2;
